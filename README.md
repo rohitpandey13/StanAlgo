@@ -34,7 +34,7 @@ Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 <b>Syllabus:</b>
 # Week 1
 
-Lecture 1: Algorithmic Analysis [slides](https://docs.google.com/presentation/d/1PtQuSwbq038gD8EEeny6LuolbpWID5S3hVxunGUjqAc/edit#slide=id.g1de0f4e546_0_0), [condensed slides](https://docs.google.com/presentation/d/12dJatG5lS9HGr9z14sW1HemDnVADfOqJ8RcHPmAcxVw/edit#slide=id.g1de0f4e546_0_0), [Notes](https://cs161-sum18.github.io/lecture-notes/01-02.pdf)
+Lecture 1: Algorithmic Analysis  - { [slides](https://docs.google.com/presentation/d/1PtQuSwbq038gD8EEeny6LuolbpWID5S3hVxunGUjqAc/edit#slide=id.g1de0f4e546_0_0) }, { [condensed slides](https://docs.google.com/presentation/d/12dJatG5lS9HGr9z14sW1HemDnVADfOqJ8RcHPmAcxVw/edit#slide=id.g1de0f4e546_0_0) }, { [Notes](https://cs161-sum18.github.io/lecture-notes/01-02.pdf) }
 
 Lecture 2:
 
