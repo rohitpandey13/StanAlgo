@@ -3,7 +3,7 @@
 # CS 108
 # CS 109
 # Algoriths Specialization ( Stanford University - Coursera)
-# CS 161 : Design and Analysis of Algorithms
+# [CS 161](https://cs161-sum18.github.io/index.html) : Design and Analysis of Algorithms
 
 <b>Requirements:</b> [Latex](https://cs161-sum18.github.io/resources.html), CS 103, STATS 116, CS 109
 
@@ -29,4 +29,4 @@ james - James Hong
 edward - Nishith Khandwala
 kexin - Kexin Rong
 
-
+Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
