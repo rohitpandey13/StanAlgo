@@ -19,7 +19,7 @@
 Midterm Exam (7/26): 25%, Final Exam (cumulative) (8/17): 40%, Homework 0: 0%, Other 5 Homeworks (equally weighted): 35%
 
 <b>Instructor</b>
-david - David Eng
+david - David Eng - dkeng@stanford.edu
 <b>Teaching Assistants</b>
 edward - Edward Gan
 braden - Braden Hancock
