@@ -13,3 +13,9 @@
 
 <b>Textbook:</b> [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) <b>[CLRS]</b> {By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein}
 
+
+<b>Assessment:</b> 
+Midterm Exam (7/26): 25%, 
+Final Exam (cumulative) (8/17): 40%, 
+Homework 0: 0%, Other 5 Homeworks (equally weighted): 35%
+
