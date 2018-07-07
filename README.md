@@ -61,3 +61,6 @@ Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 ✿ Tutorial 1 : Algorithmic Analysis, Divide and Conquer - [Paper](https://cs161-sum18.github.io/tutorials/tutorial2.pdf) & [Solution](#)
 
 ✿ Homework 1 : [Zip](https://cs161-sum18.github.io/homework/hw1-v2.zip), [Solution](https://drive.google.com/open?id=1ZlOrX9Sf2PSYmptfwk6jtIKb_bFKH_c9)
+
+# Past Materials(161)
+- [CS161 2013](https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/) , [CS161 Fall 2017 by - ⌨ Mary Wooters](https://web.stanford.edu/class/cs161/), 
