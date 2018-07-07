@@ -40,7 +40,7 @@ david - [David Eng](https://www.linkedin.com/in/gnedivad/) - dkeng@stanford.edu
 
 <img src = "https://github.com/SKKSaikia/Algo1way/blob/master/res/ta.PNG">
 
-[Edward Gan](https://www.linkedin.com/in/edward-gan/), [Braden Hancock](https://www.linkedin.com/in/bradenhancock/), [James Hong](https://www.linkedin.com/in/jhong93/), [Nishith Khandwala](https://www.linkedin.com/in/nishith-khandwala-16b27227/), [Kexin Rong](https://www.linkedin.com/in/kexinrong/)
+[Edward Gan](https://www.linkedin.com/in/edward-gan/){ egan1@ }, [Braden Hancock](https://www.linkedin.com/in/bradenhancock/){ bradenjh@ }, [James Hong](https://www.linkedin.com/in/jhong93/){ jamesh93@ }, [Nishith Khandwala](https://www.linkedin.com/in/nishith-khandwala-16b27227/){ nishith@ }, [Kexin Rong](https://www.linkedin.com/in/kexinrong/){ krong@ }
 
 Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 
