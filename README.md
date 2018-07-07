@@ -20,6 +20,8 @@ Now After some Data Structure and Algorithms, I needed to go for Design and Anal
 
 # [CS 161](https://cs161-sum18.github.io/index.html) : Design and Analysis of Algorithms [Campus Class] {Graded}
 
+<img src="https://github.com/SKKSaikia/Algo1way/blob/master/res/161.png">
+
 <b>Requirements:</b> [Latex](https://cs161-sum18.github.io/resources.html), CS 103, STATS 116, CS 109
 
 <b>Lectures: </b> Lectures occur on Tues/Thurs 9:30-11:20 a.m. in Skillaud.
