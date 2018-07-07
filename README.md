@@ -28,7 +28,7 @@ Now After some Data Structure and Algorithms, I needed to go for Design and Anal
 
 <b>Tutorials:</b> Tutorials occur on Fri 3:30-4:50 p.m. in STLC 115.
 
-<b>Textbook:</b> [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) <b>[CLRS]</b> {By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein}
+<b>Textbook:</b> [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) <b>[CLRS]</b> - [pdf](https://github.com/SKKSaikia/Algo1way/blob/master/introduction-to-algorithms-3rd-edition-sep-2010.pdf) -  {By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein}
 <img src="https://github.com/SKKSaikia/Algo1way/blob/master/res/CLRS.png">
 
 <b>Assessment:</b> 
