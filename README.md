@@ -58,7 +58,7 @@ Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 
 ✿ Lecture 4 : Sorting Lower Bounds - { [slides](https://docs.google.com/presentation/d/18d9tyIvnE6e55DBOJM41jg0j0Db0lDBhaFIViWcaHgU/edit#slide=id.g3a383f5c23_1_0) }, { [condensed slides](https://docs.google.com/presentation/d/1kUXBj8Zje0FqligT4us1C3-lPp7EcEDQzlaXQyZbL3A/edit#slide=id.g3a383f5c23_1_0) }, { [Notes](https://cs161-sum18.github.io/lecture-notes/04.pdf) }
 
-✿ Tutorial 1 : Algorithmic Analysis, Divide and Conquer - [Paper](https://cs161-sum18.github.io/tutorials/tutorial2.pdf) & [Solution](#)
+✿ Tutorial 1 : Algorithmic Analysis, Divide and Conquer - [Paper](https://cs161-sum18.github.io/tutorials/tutorial2.pdf) & [Solution](https://cs161-sum18.github.io/tutorials/tutorial2-sol.pdf)
 
 ✿ Homework 1 : [Zip](https://cs161-sum18.github.io/homework/hw1-v2.zip), [Solution](https://drive.google.com/open?id=1ZlOrX9Sf2PSYmptfwk6jtIKb_bFKH_c9)
 
