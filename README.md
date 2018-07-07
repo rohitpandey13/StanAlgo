@@ -2,7 +2,18 @@
 # CS 106 B
 # CS 108
 # CS 109
-# Algoriths Specialization ( Stanford University - Coursera)
+# Algorithms Specialization ( Stanford University - Coursera)
+
+Certificate : {Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLPWX6Q7QDPE)
+
+- [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/GUT94SX9EKND) <b>[ 98 % ]</b>
+
+- [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/certificate/73P3R6Q8WBJ4) <b>[ 100 % ]</b>
+
+- [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/HZXRLSQUTAUU) <b> [ 97.5 % ]</b>
+
+- [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/account/accomplishments/certificate/CVZA48B4WVMQ) <b>[ 88.9 % ]</b>
+
 # [CS 161](https://cs161-sum18.github.io/index.html) : Design and Analysis of Algorithms
 
 <b>Requirements:</b> [Latex](https://cs161-sum18.github.io/resources.html), CS 103, STATS 116, CS 109
