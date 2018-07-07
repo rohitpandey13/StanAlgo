@@ -4,7 +4,7 @@
 # CS 109
 # Algorithms Specialization ( Stanford University - Coursera)
 
-Certificate : {Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLPWX6Q7QDPE)
+Certificate : [Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLPWX6Q7QDPE)
 
 - [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/GUT94SX9EKND) <b>[ 98 % ]</b>
 
@@ -13,6 +13,8 @@ Certificate : {Algorithms Specialization](https://www.coursera.org/account/accom
 - [Graph Search, Shortest Paths, and Data Structures](https://www.coursera.org/account/accomplishments/certificate/HZXRLSQUTAUU) <b> [ 97.5 % ]</b>
 
 - [Shortest Paths Revisited, NP-Complete Problems and What To Do About Them](https://www.coursera.org/account/accomplishments/certificate/CVZA48B4WVMQ) <b>[ 88.9 % ]</b>
+
+Now After some Data Structure and Algorithms, I needed to go for Design and Analysis of Algorithms.
 
 # [CS 161](https://cs161-sum18.github.io/index.html) : Design and Analysis of Algorithms
 
