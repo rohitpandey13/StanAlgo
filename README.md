@@ -36,15 +36,11 @@ Now After some Data Structure and Algorithms, I needed to go for Design and Anal
 Midterm Exam (7/26): 25%, Final Exam (cumulative) (8/17): 40%, Homework 0: 0%, Other 5 Homeworks (equally weighted): 35%
 
 <b>Instructor</b>
-david - David Eng - dkeng@stanford.edu
+david - [David Eng](https://www.linkedin.com/in/gnedivad/) - dkeng@stanford.edu
 
-<b>Teaching Assistants</b>
+<img src = "https://github.com/SKKSaikia/Algo1way/blob/master/res/ta.PNG">
 
-edward - Edward Gan
-braden - Braden Hancock
-james - James Hong
-edward - Nishith Khandwala
-kexin - Kexin Rong
+[Edward Gan](https://www.linkedin.com/in/edward-gan/), [Braden Hancock](https://www.linkedin.com/in/bradenhancock/), [James Hong](https://www.linkedin.com/in/jhong93/), [Nishith Khandwala](https://www.linkedin.com/in/nishith-khandwala-16b27227/), [Kexin Rong](https://www.linkedin.com/in/kexinrong/)
 
 Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 
