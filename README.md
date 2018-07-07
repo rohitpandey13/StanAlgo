@@ -2,7 +2,7 @@
 # CS 106 B
 # CS 108
 # CS 109
-# Algorithms Specialization ( Stanford University - Coursera)
+# [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) ( Stanford University - Coursera)
 
 Certificate : [Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLPWX6Q7QDPE)
 
