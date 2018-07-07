@@ -54,10 +54,10 @@ Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 
 # Week 2
 
-✿ Lecture 3: Divide and Conquer - { [slides](https://docs.google.com/presentation/d/1eD9Kzjk_DBFzxc0Sr7zvaaifM3RwTGMN4O58gsIqHqs/edit#slide=id.g3a383f5c23_1_0) }, { [condensed slides](https://docs.google.com/presentation/d/1YoX2MBwhUi-F4hHXAGZ6oe8NFAH1WD4BM4Hpj6j9h80/edit?usp=sharing), [Notes](https://cs161-sum18.github.io/lecture-notes/03.pdf) } 
+✿ Lecture 3: Divide and Conquer - { [slides](https://docs.google.com/presentation/d/1eD9Kzjk_DBFzxc0Sr7zvaaifM3RwTGMN4O58gsIqHqs/edit#slide=id.g3a383f5c23_1_0) }, { [condensed slides](https://docs.google.com/presentation/d/1YoX2MBwhUi-F4hHXAGZ6oe8NFAH1WD4BM4Hpj6j9h80/edit?usp=sharing) }, { [Notes](https://cs161-sum18.github.io/lecture-notes/03.pdf) } 
 
-✿ Lecture 4:
+✿ Lecture 4: Sorting Lower Bounds - { [slides](https://docs.google.com/presentation/d/18d9tyIvnE6e55DBOJM41jg0j0Db0lDBhaFIViWcaHgU/edit#slide=id.g3a383f5c23_1_0) }, { [condened slides](https://docs.google.com/presentation/d/1kUXBj8Zje0FqligT4us1C3-lPp7EcEDQzlaXQyZbL3A/edit#slide=id.g3a383f5c23_1_0) }, { [Notes](https://cs161-sum18.github.io/lecture-notes/04.pdf) }
 
-✿ Tutorial 1:
+✿ Tutorial 1: Algorithmic Analysis, Divide and Conquer - [Paper](https://cs161-sum18.github.io/tutorials/tutorial2.pdf) & [Solution](#)
 
 ✿ Homework 1:
