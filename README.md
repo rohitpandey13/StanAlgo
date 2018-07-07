@@ -35,12 +35,11 @@ Now After some Data Structure and Algorithms, I needed to go for Design and Anal
 
 Midterm Exam (7/26): 25%, Final Exam (cumulative) (8/17): 40%, Homework 0: 0%, Other 5 Homeworks (equally weighted): 35%
 
-<b>Instructor</b>
-david - [David Eng](https://www.linkedin.com/in/gnedivad/) - dkeng@stanford.edu
+<b>Instructor : </b>
+
+[David Eng](https://www.linkedin.com/in/gnedivad/){ dkeng@stanford.edu }, [Edward Gan](https://www.linkedin.com/in/edward-gan/){ egan1@ }, [Braden Hancock](https://www.linkedin.com/in/bradenhancock/){ bradenjh@ }, [James Hong](https://www.linkedin.com/in/jhong93/){ jamesh93@ }, [Nishith Khandwala](https://www.linkedin.com/in/nishith-khandwala-16b27227/){ nishith@ }, [Kexin Rong](https://www.linkedin.com/in/kexinrong/){ krong@ }
 
 <img src = "https://github.com/SKKSaikia/Algo1way/blob/master/res/ta.PNG">
-
-[Edward Gan](https://www.linkedin.com/in/edward-gan/){ egan1@ }, [Braden Hancock](https://www.linkedin.com/in/bradenhancock/){ bradenjh@ }, [James Hong](https://www.linkedin.com/in/jhong93/){ jamesh93@ }, [Nishith Khandwala](https://www.linkedin.com/in/nishith-khandwala-16b27227/){ nishith@ }, [Kexin Rong](https://www.linkedin.com/in/kexinrong/){ krong@ }
 
 Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 
