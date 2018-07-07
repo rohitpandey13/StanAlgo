@@ -18,7 +18,7 @@ Certificate : [Algorithms Specialization](https://www.coursera.org/account/accom
 
 Now After some Data Structure and Algorithms, I needed to go for Design and Analysis of Algorithms.
 
-# [CS 161](https://cs161-sum18.github.io/index.html) : Design and Analysis of Algorithms
+# [CS 161](https://cs161-sum18.github.io/index.html) : Design and Analysis of Algorithms [Campus Class] {Graded}
 
 <b>Requirements:</b> [Latex](https://cs161-sum18.github.io/resources.html), CS 103, STATS 116, CS 109
 
