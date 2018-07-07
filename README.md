@@ -24,9 +24,9 @@ Now After some Data Structure and Algorithms, I needed to go for Design and Anal
 
 <b>Requirements:</b> [Latex](https://cs161-sum18.github.io/resources.html), [CS 103](http://web.stanford.edu/class/cs103/), [STATS 116](http://statweb.stanford.edu/~susan/courses/s116/), [CS 109](http://web.stanford.edu/class/cs109/)
 
-<b>Lectures: </b> Lectures occur on Tues/Thurs 9:30-11:20 a.m. in Skillaud.
+<b>Lectures: </b> Lectures occur on Tues/Thurs 9:30-11:20 a.m. in Skillaud, Stanford University.
 
-<b>Tutorials:</b> Tutorials occur on Fri 3:30-4:50 p.m. in STLC 115.
+<b>Tutorials:</b> Tutorials occur on Fri 3:30-4:50 p.m. in STLC 115, Stanford University.
 
 <b>Textbook:</b> [Introduction to Algorithms](https://mitpress.mit.edu/books/introduction-algorithms-third-edition) <b>[CLRS]</b> - [pdf](https://github.com/SKKSaikia/Algo1way/blob/master/introduction-to-algorithms-3rd-edition-sep-2010.pdf) -  {By Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest and Clifford Stein}
 <img src="https://github.com/SKKSaikia/Algo1way/blob/master/res/CLRS.png">
