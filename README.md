@@ -6,6 +6,8 @@
 
 Certificate : [Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLPWX6Q7QDPE)
 
+<img src="https://github.com/SKKSaikia/Algo1way/blob/master/res/flowDS.png">
+
 - [Divide and Conquer, Sorting and Searching, and Randomized Algorithms](https://www.coursera.org/account/accomplishments/certificate/GUT94SX9EKND) <b>[ 98 % ]</b>
 
 - [Greedy Algorithms, Minimum Spanning Trees, and Dynamic Programming](https://www.coursera.org/account/accomplishments/certificate/73P3R6Q8WBJ4) <b>[ 100 % ]</b>
