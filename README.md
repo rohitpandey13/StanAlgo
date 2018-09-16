@@ -1,7 +1,7 @@
-# CS 106 A
-# CS 106 B
-# CS 108
-# CS 109
+# CS 106 A : [Programming Methodology](https://web.stanford.edu/class/cs106a/)
+# CS 106 B : [Programming Abstractions](http://web.stanford.edu/class/cs106b/)
+# CS 108 : [Object Oriented Programming](http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/)
+# CS 109 : [Probability for Computer Science](http://web.stanford.edu/class/cs109/)
 # [Algorithms Specialization](https://www.coursera.org/specializations/algorithms) ( Stanford University - Coursera)
 
 Certificate : [Algorithms Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/MLPWX6Q7QDPE)
