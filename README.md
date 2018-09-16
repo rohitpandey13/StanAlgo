@@ -64,5 +64,7 @@ Office Hours : [Calender](https://cs161-sum18.github.io/index.html)
 
 ✿ Homework 1 : [Zip](https://cs161-sum18.github.io/homework/hw1-v2.zip), [Solution](https://drive.google.com/open?id=1ZlOrX9Sf2PSYmptfwk6jtIKb_bFKH_c9)
 
+# Week 3 ,4 ,5, 6, 7, 8 | Quarter Ended and Passed the course :)
+
 # Past Materials(161)
 - [CS161 2013](https://web.stanford.edu/class/archive/cs/cs161/cs161.1138/) , [CS161 Fall 2017 by - ❄ Mary Wooters ✈](https://web.stanford.edu/class/cs161/), [CS161 Summer 2016](http://web.stanford.edu/class/archive/cs/cs161/cs161.1168/), [CS161 Spring 2017](http://web.stanford.edu/class/archive/cs/cs161/cs161.1176/), [CS161 Spring 2016](http://web.stanford.edu/class/archive/cs/cs161/cs161.1166/staff.html), [Spring 2016 - Virginia Williams](http://web.stanford.edu/class/archive/cs/cs161/cs161.1166/)
