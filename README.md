@@ -1,3 +1,5 @@
+# STANFORD ALGORITHMS | ☄
+
 # CS 106 A : [Programming Methodology](https://web.stanford.edu/class/cs106a/)
 # CS 106 B : [Programming Abstractions](http://web.stanford.edu/class/cs106b/)
 # CS 108 : [Object Oriented Programming](http://web.stanford.edu/class/archive/cs/cs108/cs108.1092/)
